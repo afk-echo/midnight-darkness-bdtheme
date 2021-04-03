@@ -2,8 +2,10 @@
  * @name Midnight Darkness
  * @author Me
  * @version 1.0.0
- * @description An actual midnight dark theme
+ * @description An actual midnight dark theme 
 **/
+
+/*This theme is a standalone theme that can be used by BetterDiscord without the need for adding Custom CSS*/
 
 :root {
     --chat-font-used: 'Slate For OnePlus Light',Light;
