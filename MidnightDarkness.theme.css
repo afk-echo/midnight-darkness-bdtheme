@@ -9,7 +9,8 @@
 /*This theme is a standalone theme that can be used by BetterDiscord without the need for adding Custom CSS*/
 
 :root {
-    --chat-font-used: 'Slate For OnePlus Light',Light;
+    /* uncomment for using a custom font
+    --chat-font-used: 'Slate For OnePlus Light',Light; */
     --background-primary: #090909 !important;
     --background-secondary: rgb(15,15,15) !important;
     --background-secondary-alt: #090909 !important;
